@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.svg" alt="REAX logo" width="72" />
+</p>
+
 # REAX
 
 REAX is a browser-based music visualizer and video editor for creating audio-reactive visuals and exporting music videos. It runs in the browser and focuses on a local-first editing workflow: import audio, build scenes with layers, tune how visuals react to sound, and export from the studio.
